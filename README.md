@@ -2,7 +2,7 @@
 
 ## Hey I'm Andrew.
 
-My only weapon is caffine which gives. double xp, instant transmission and converts my V6 engine into a V10.
+The only thing I eat drink and consume is caffine which gives. double xp, instant transmission and converts my V6 engine into a V10.
 
 I spent most of my time programming, socializing, gym and gaming. 
 
