@@ -2,9 +2,7 @@
 
 ## Hey I'm Andrew.
 
-Heres a little about me.
-
-Caffine provides me with various buffs. double xp, instant transmission and converting my V6 engine into a V10.
+My only weapon is caffine which gives. double xp, instant transmission and converts my V6 engine into a V10.
 
 I spent most of my time programming, socializing, gym and gaming. 
 
