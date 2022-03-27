@@ -4,8 +4,10 @@
 
 I enjoy programming, socializing, working out and gaming. When it comes to food, the only thing I consume is caffeine. 
 
-> Item: Caffine
+> Item: Cappuccino
+> 
 > Effects: Double xp, instant transmission and converts my V6 engine into a V10.
+> 
 > Cost: $1 @ 7/11 
 
 <h3 align="left">Connect with me:</h3>
