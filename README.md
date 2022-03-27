@@ -2,9 +2,11 @@
 
 ## Hey I'm Andrew.
 
-The only thing I eat drink and consume is caffine which gives. double xp, instant transmission and converts my V6 engine into a V10.
+I enjoy programming, socializing, working out and gaming. When it comes to food, the only thing I consume is caffeine. 
 
-I spent most of my time programming, socializing, gym and gaming. 
+> Item: Caffine
+> Effects: Double xp, instant transmission and converts my V6 engine into a V10.
+> Cost: $1 @ 7/11 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
