@@ -2,7 +2,7 @@
 
 ## Hey I'm Andrew.
 
-I enjoy programming, socializing, working out and gaming. When it comes to food, the only thing I consume is caffeine. 
+I'm just a regular guy who enjoys programming, socializing, working out and gaming. When it comes to food, the only thing I consume is caffeine. 
 
 > Item: Cappuccino
 > 
